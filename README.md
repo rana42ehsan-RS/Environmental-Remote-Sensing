@@ -1,9 +1,9 @@
 # Environmental Remote Sensing & Geospatial Analysis
 
-Scientific programming for environmental monitoring, air quality analysis, and geospatial decision-support — built with **Google Earth Engine**, **Python**, and open geospatial libraries.
+Scientific programming for environmental monitoring, air quality analysis, and geospatial decision-support built with **Google Earth Engine**, **Python**, and open geospatial libraries.
 
-**Author:** Ehsan Ul Haq — GIS Specialist, Environment Protection & Climate Change Department (EP&CCD), Government of Punjab, Pakistan
-**Background:** M.Phil. Space Science (CGPA 3.65), University of Punjab · 4 peer-reviewed publications · ~10 years in GIS, remote sensing & environmental monitoring
+**Author:** Ehsan Ul Haq GIS Specialist, Environment Protection & Climate Change Department (EP&CCD), Government of Punjab, Pakistan
+**Background:** M.Phil. Space Science (CGPA 3.65), University of Punjab · 3 publications · ~10 years in GIS, remote sensing & environmental monitoring
 **Contact:** rana42ehsan@gmail.com
 
 ---
